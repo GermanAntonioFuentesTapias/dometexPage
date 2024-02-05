@@ -1980,6 +1980,16 @@ input, select, textarea {
 					opacity: 0.1;
 				}
 
+	#imageInicit .image{
+
+		display: flex;
+		
+		height: 1225px;
+		width: 900px;
+
+
+		
+	}
 /* Features */
 
 	.features {
