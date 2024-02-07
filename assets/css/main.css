@@ -1980,16 +1980,7 @@ input, select, textarea {
 					opacity: 0.1;
 				}
 
-	#imageInicit .image{
-
-		display: flex;
-		
-		height: 1225px;
-		width: 900px;
-
-
-		
-	}
+	
 /* Features */
 
 	.features {
@@ -2575,12 +2566,28 @@ input, select, textarea {
 				}
 
 /* Image */
+     
 
+
+  
 	.image {
 		border-radius: 0.25em;
 		border: 0;
 		display: inline-block;
 		position: relative;
+	}
+
+
+	
+
+    
+    
+	#imageInicit .image{
+
+		display: flex;
+		width: 200px;
+		height: 400px;
+
 	}
 
 		.image img {
